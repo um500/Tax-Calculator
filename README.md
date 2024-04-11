@@ -4,7 +4,7 @@
 This is a simple tax calculator web application that helps users calculate their taxes based on their income, age group, and deductions.
 
 ## Demo
-`https://tax-calculator-flame.vercel.app/`
+[View Demo](https://tax-calculator-flame.vercel.app/)
 
 ## Getting Started
 1. Clone the repository: `https://github.com/um500/Tax-Calculator.git`
